@@ -1,6 +1,6 @@
 {
-	"name": "react-lazy-loading",
-	"version": "1.1.0",
+	"name": "react-lazy-loading-func",
+	"version": "1.1.1",
 	"private": false,
 	"description": "React lazy loading hook",
 	"author": "Md Wahiduzzaman Emon",
@@ -19,10 +19,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MdWahiduzzamanEmon/-emon-browser_storage_hook_react.git"
+		"url": "git+https://github.com/MdWahiduzzamanEmon/React_lazy_loading_function"
 	},
 	"bugs": {
-		"url": "https://github.com/MdWahiduzzamanEmon/-emon-browser_storage_hook_react.git"
+		"url": "https://github.com/MdWahiduzzamanEmon/React_lazy_loading_function"
 	},
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
