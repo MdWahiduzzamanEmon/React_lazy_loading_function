@@ -20,16 +20,17 @@ yarn add react-lazy-loading-func
 import lazyLoad from "react-lazy-loading-func";
 ```
 
-```
 ## How to use it
 
 ```
 lazyLoad(path,componentName)
 ```
+```
 const Home= lazyLoad("./Home/Home","Home")
 
 ```
 ```
-Here path is the path of the component and componentName is the name of the component which you want to import.
+Here path is the path of the component and componentName
+ is the name of the component which you want to import.
 
 ```
